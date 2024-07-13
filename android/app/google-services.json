@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "165312428480",
+    "firebase_url": "https://mobile-dayat-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-dayat",
+    "storage_bucket": "mobile-dayat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165312428480:android:6d0fe9e568c7c7648d7025",
+        "android_client_info": {
+          "package_name": "com.example.mobile_dua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2zUKk9DoEWk1C9-n0srzIUr-94_1O-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
